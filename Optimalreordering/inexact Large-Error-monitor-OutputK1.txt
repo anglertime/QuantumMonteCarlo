@@ -1,0 +1,6 @@
+
+ At step 5000, accept move is 2423, 
+ Accept ratio is 48.4600
+ 2423 out of 5000 movements are accepted. Accept ratio is 48.4600%  
+
+ Finally, after 5000 steps, pass = 4. 

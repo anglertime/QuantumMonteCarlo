@@ -1,0 +1,244 @@
+
+ At step 6, swap row 153 and row 10. 
+
+ At step 6, swap row 27 and row 12. 
+
+ At step 6, swap row 20 and row 19. 
+
+ At step 6, swap row 149 and row 19. 
+
+ At step 6, swap row 10 and row 12. 
+
+ At step 6, swap row 155 and row 138. 
+
+ At step 6, swap row 19 and row 147. 
+
+ At step 6, swap row 138 and row 12. 
+
+ At step 6, swap row 317 and row 188. 
+
+ At step 6, swap row 272 and row 271. 
+
+ At step 6, swap row 385 and row 271. 
+
+ At step 6, swap row 443 and row 300. 
+
+ At step 6, swap row 300 and row 188. 
+
+ At step 6, swap row 333 and row 332. 
+
+ At step 6, swap row 188 and row 332. 
+
+ At step 6, swap row 271 and row 382. 
+
+ At step 6, swap row 400 and row 382. 
+
+ At step 6, swap row 510 and row 399. 
+
+ At step 6, swap row 399 and row 382. 
+
+ At step 6, swap row 459 and row 332. 
+
+ At step 6, swap row 475 and row 458. 
+
+ At step 6, swap row 458 and row 332. 
+
+ At step 6, moveP 776, reordered the matrix globally. 
+
+
+
+1111 At step 6, moveP 776, reordered the matrix LOCALLY -> gglobal cut. Localsize 55 
+
+
+
+ At step 14, swap row 561 and row 432. 
+
+ At step 14, swap row 723 and row 578. 
+
+ At step 14, moveP 561, reordered the matrix globally. 
+
+
+
+222222 At step 14, swap row 561 and row 432. 
+
+ At step 14, moveP 561, reordered the matrix LOCALLY -> gglobal cut. Localsize 58 
+
+
+
+ At step 243, swap row 10 and row 9. 
+
+ At step 243, swap row 27 and row 9. 
+
+ At step 243, swap row 155 and row 12. 
+
+ At step 243, swap row 12 and row 9. 
+
+ At step 243, swap row 9 and row 121. 
+
+ At step 243, swap row 142 and row 140. 
+
+ At step 243, swap row 270 and row 140. 
+
+ At step 243, swap row 283 and row 121. 
+
+ At step 243, swap row 121 and row 249. 
+
+ At step 243, swap row 271 and row 140. 
+
+ At step 243, swap row 382 and row 140. 
+
+ At step 243, swap row 140 and row 249. 
+
+ At step 243, swap row 483 and row 338. 
+
+ At step 243, swap row 377 and row 376. 
+
+ At step 243, swap row 249 and row 376. 
+
+ At step 243, swap row 376 and row 378. 
+
+ At step 243, swap row 509 and row 378. 
+
+ At step 243, swap row 378 and row 395. 
+
+ At step 243, swap row 395 and row 508. 
+
+ At step 243, swap row 921 and row 906. 
+
+ At step 243, swap row 922 and row 906. 
+
+ At step 243, moveP 906, reordered the matrix globally. 
+
+
+
+ 333333333333At step 243, swap row 921 and row 906. 
+
+ At step 243, swap row 922 and row 906. 
+
+ At step 243, moveP 906, reordered the matrix LOCALLY -> gglobal cut. Localsize 60 
+
+
+
+ At step 421, swap row 517 and row 500. 
+
+ At step 421, swap row 500 and row 515. 
+
+ At step 421, swap row 775 and row 774. 
+
+ At step 421, moveP 775, reordered the matrix globally. 
+
+
+
+ 444444444444444At step 421, swap row 775 and row 774. 
+
+ At step 421, moveP 775, reordered the matrix LOCALLY -> gglobal cut. Localsize 57 
+
+
+
+ At step 454, swap row 677 and row 534. 
+
+ At step 454, swap row 678 and row 534. 
+
+ At step 454, moveP 678, reordered the matrix globally. 
+
+
+
+ At step 454, swap row 677 and row 534. 
+
+ At step 454, swap row 678 and row 534. 
+
+ At step 454, moveP 678, reordered the matrix LOCALLY -> gglobal cut. Localsize 62 
+
+
+
+ At step 857, swap row 68 and row 52. 
+
+ At step 857, swap row 70 and row 52. 
+
+ At step 857, swap row 52 and row 69. 
+
+ At step 857, swap row 595 and row 452. 
+
+ At step 857, swap row 621 and row 492. 
+
+ At step 857, swap row 492 and row 494. 
+
+ At step 857, swap row 517 and row 500. 
+
+ At step 857, swap row 597 and row 452. 
+
+ At step 857, swap row 877 and row 732. 
+
+ At step 857, swap row 935 and row 806. 
+
+ At step 857, swap row 732 and row 861. 
+
+ At step 857, swap row 933 and row 916. 
+
+ At step 857, swap row 916 and row 918. 
+
+ At step 857, swap row 806 and row 918. 
+
+ At step 857, moveP 492, reordered the matrix globally. 
+
+
+
+ At step 857, swap row 621 and row 492. 
+
+ At step 857, swap row 492 and row 494. 
+
+ At step 857, moveP 492, reordered the matrix LOCALLY -> gglobal cut. Localsize 58 
+
+
+
+ At step 907, swap row 33 and row 18. 
+
+ At step 907, swap row 145 and row 32. 
+
+ At step 907, swap row 32 and row 18. 
+
+ At step 907, swap row 18 and row 35. 
+
+ At step 907, swap row 35 and row 36. 
+
+ At step 907, swap row 273 and row 36. 
+
+ At step 907, swap row 162 and row 146. 
+
+ At step 907, swap row 179 and row 146. 
+
+ At step 907, swap row 36 and row 146. 
+
+ At step 907, moveP 36, reordered the matrix globally. 
+
+
+
+ At step 907, swap row 33 and row 18. 
+
+ At step 907, swap row 147 and row 19. 
+
+ At step 907, swap row 19 and row 20. 
+
+ At step 907, swap row 145 and row 32. 
+
+ At step 907, swap row 32 and row 18. 
+
+ At step 907, swap row 18 and row 35. 
+
+ At step 907, swap row 35 and row 36. 
+
+ At step 907, swap row 146 and row 36. 
+
+ At step 907, swap row 162 and row 36. 
+
+ At step 907, swap row 149 and row 20. 
+
+ At step 907, swap row 179 and row 36. 
+
+ At step 907, moveP 36, reordered the matrix LOCALLY -> gglobal cut. Localsize 70 
+
+
+
+ 550 out of 1000 movements are accepted. Accept ratio is 55.0000%  
+
+ Finally, after 1000 steps, pass = 0. 

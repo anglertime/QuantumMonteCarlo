@@ -1,0 +1,2047 @@
+
+         At step 1 : 
+The smallest diagonal value is 0.027741 at row 138. 
+
+         At step 2 : 
+
+         At step 3 : 
+
+         At step 4 : 
+
+         At step 5 : 
+
+         At step 6 : 
+
+         At step 7 : 
+
+         At step 8 : 
+
+         At step 9 : 
+
+         At step 10 : 
+
+         At step 11 : 
+
+         At step 12 : 
+
+         At step 13 : 
+
+         At step 14 : 
+
+         At step 15 : 
+
+         At step 16 : 
+
+         At step 17 : 
+
+         At step 18 : 
+
+         At step 19 : 
+
+         At step 20 : 
+
+         At step 21 : 
+
+         At step 22 : 
+
+         At step 23 : 
+
+         At step 24 : 
+
+         At step 25 : 
+
+         At step 26 : 
+
+         At step 27 : 
+
+         At step 28 : 
+
+         At step 29 : 
+
+         At step 30 : 
+
+         At step 31 : 
+
+         At step 32 : 
+
+         At step 33 : 
+
+         At step 34 : 
+
+         At step 35 : 
+
+         At step 36 : 
+
+         At step 37 : 
+
+         At step 38 : 
+
+         At step 39 : 
+
+         At step 40 : 
+
+         At step 41 : 
+
+         At step 42 : 
+
+         At step 43 : 
+
+         At step 44 : 
+
+         At step 45 : 
+
+         At step 46 : 
+
+         At step 47 : 
+
+         At step 48 : 
+
+         At step 49 : 
+
+         At step 50 : 
+
+         At step 51 : 
+
+         At step 52 : 
+
+         At step 53 : 
+
+         At step 54 : 
+
+         At step 55 : 
+
+         At step 56 : 
+
+         At step 57 : 
+
+         At step 58 : 
+
+         At step 59 : 
+
+         At step 60 : 
+
+         At step 61 : 
+
+         At step 62 : 
+
+         At step 63 : 
+
+         At step 64 : 
+
+         At step 65 : 
+
+         At step 66 : 
+
+         At step 67 : 
+
+         At step 68 : 
+
+         At step 69 : 
+
+         At step 70 : 
+
+         At step 71 : 
+
+         At step 72 : 
+
+         At step 73 : 
+
+         At step 74 : 
+
+         At step 75 : 
+
+         At step 76 : 
+
+         At step 77 : 
+
+         At step 78 : 
+
+         At step 79 : 
+
+         At step 80 : 
+
+         At step 81 : 
+
+         At step 82 : 
+
+         At step 83 : 
+
+         At step 84 : 
+
+         At step 85 : 
+
+         At step 86 : 
+
+         At step 87 : 
+
+         At step 88 : 
+
+         At step 89 : 
+
+         At step 90 : 
+
+         At step 91 : 
+
+         At step 92 : 
+
+         At step 93 : 
+
+         At step 94 : 
+
+         At step 95 : 
+
+         At step 96 : 
+
+         At step 97 : 
+
+         At step 98 : 
+
+         At step 99 : 
+
+         At step 100 : 
+
+         At step 101 : 
+
+         At step 102 : 
+
+         At step 103 : 
+
+         At step 104 : 
+
+         At step 105 : 
+
+         At step 106 : 
+
+         At step 107 : 
+
+         At step 108 : 
+
+         At step 109 : 
+
+         At step 110 : 
+
+         At step 111 : 
+
+         At step 112 : 
+
+         At step 113 : 
+
+         At step 114 : 
+
+         At step 115 : 
+
+         At step 116 : 
+
+         At step 117 : 
+
+         At step 118 : 
+
+         At step 119 : 
+
+         At step 120 : 
+
+         At step 121 : 
+
+         At step 122 : 
+
+         At step 123 : 
+
+         At step 124 : 
+
+         At step 125 : 
+
+         At step 126 : 
+
+         At step 127 : 
+
+         At step 128 : 
+
+         At step 129 : 
+
+         At step 130 : 
+
+         At step 131 : 
+
+         At step 132 : 
+
+         At step 133 : 
+
+         At step 134 : 
+
+         At step 135 : 
+
+         At step 136 : 
+
+         At step 137 : 
+
+         At step 138 : 
+
+         At step 139 : 
+
+         At step 140 : 
+
+         At step 141 : 
+
+         At step 142 : 
+
+         At step 143 : 
+
+         At step 144 : 
+
+         At step 145 : 
+
+         At step 146 : 
+
+         At step 147 : 
+
+         At step 148 : 
+
+         At step 149 : 
+
+         At step 150 : 
+
+         At step 151 : 
+
+         At step 152 : 
+
+         At step 153 : 
+
+         At step 154 : 
+
+         At step 155 : 
+
+         At step 156 : 
+
+         At step 157 : 
+
+         At step 158 : 
+
+         At step 159 : 
+
+         At step 160 : 
+
+         At step 161 : 
+
+         At step 162 : 
+
+         At step 163 : 
+
+         At step 164 : 
+
+         At step 165 : 
+
+         At step 166 : 
+
+         At step 167 : 
+
+         At step 168 : 
+
+         At step 169 : 
+
+         At step 170 : 
+
+         At step 171 : 
+
+         At step 172 : 
+
+         At step 173 : 
+
+         At step 174 : 
+
+         At step 175 : 
+
+         At step 176 : 
+
+         At step 177 : 
+
+         At step 178 : 
+
+         At step 179 : 
+
+         At step 180 : 
+
+         At step 181 : 
+
+         At step 182 : 
+
+         At step 183 : 
+
+         At step 184 : 
+
+         At step 185 : 
+
+         At step 186 : 
+
+         At step 187 : 
+
+         At step 188 : 
+
+         At step 189 : 
+
+         At step 190 : 
+
+         At step 191 : 
+
+         At step 192 : 
+
+         At step 193 : 
+
+         At step 194 : 
+
+         At step 195 : 
+
+         At step 196 : 
+
+         At step 197 : 
+
+         At step 198 : 
+
+         At step 199 : 
+
+         At step 200 : 
+
+         At step 201 : 
+
+         At step 202 : 
+
+         At step 203 : 
+
+         At step 204 : 
+
+         At step 205 : 
+
+         At step 206 : 
+
+         At step 207 : 
+
+         At step 208 : 
+
+         At step 209 : 
+
+         At step 210 : 
+
+         At step 211 : 
+
+         At step 212 : 
+
+         At step 213 : 
+
+         At step 214 : 
+
+         At step 215 : 
+
+         At step 216 : 
+
+         At step 217 : 
+
+         At step 218 : 
+
+         At step 219 : 
+
+         At step 220 : 
+
+         At step 221 : 
+
+         At step 222 : 
+
+         At step 223 : 
+
+         At step 224 : 
+
+         At step 225 : 
+
+         At step 226 : 
+
+         At step 227 : 
+
+         At step 228 : 
+
+         At step 229 : 
+
+         At step 230 : 
+
+         At step 231 : 
+
+         At step 232 : 
+
+         At step 233 : 
+
+         At step 234 : 
+
+         At step 235 : 
+
+         At step 236 : 
+
+         At step 237 : 
+
+         At step 238 : 
+
+         At step 239 : 
+
+         At step 240 : 
+
+         At step 241 : 
+
+         At step 242 : 
+
+         At step 243 : 
+
+         At step 244 : 
+
+         At step 245 : 
+
+         At step 246 : 
+
+         At step 247 : 
+
+         At step 248 : 
+
+         At step 249 : 
+
+         At step 250 : 
+
+         At step 251 : 
+
+         At step 252 : 
+
+         At step 253 : 
+
+         At step 254 : 
+
+         At step 255 : 
+
+         At step 256 : 
+
+         At step 257 : 
+
+         At step 258 : 
+
+         At step 259 : 
+
+         At step 260 : 
+
+         At step 261 : 
+
+         At step 262 : 
+
+         At step 263 : 
+
+         At step 264 : 
+
+         At step 265 : 
+
+         At step 266 : 
+
+         At step 267 : 
+
+         At step 268 : 
+
+         At step 269 : 
+
+         At step 270 : 
+
+         At step 271 : 
+
+         At step 272 : 
+
+         At step 273 : 
+
+         At step 274 : 
+
+         At step 275 : 
+
+         At step 276 : 
+
+         At step 277 : 
+
+         At step 278 : 
+
+         At step 279 : 
+
+         At step 280 : 
+
+         At step 281 : 
+
+         At step 282 : 
+
+         At step 283 : 
+
+         At step 284 : 
+
+         At step 285 : 
+
+         At step 286 : 
+
+         At step 287 : 
+
+         At step 288 : 
+
+         At step 289 : 
+
+         At step 290 : 
+
+         At step 291 : 
+
+         At step 292 : 
+
+         At step 293 : 
+
+         At step 294 : 
+
+         At step 295 : 
+
+         At step 296 : 
+
+         At step 297 : 
+
+         At step 298 : 
+
+         At step 299 : 
+
+         At step 300 : 
+
+         At step 301 : 
+
+         At step 302 : 
+
+         At step 303 : 
+
+         At step 304 : 
+
+         At step 305 : 
+
+         At step 306 : 
+
+         At step 307 : 
+
+         At step 308 : 
+
+         At step 309 : 
+
+         At step 310 : 
+
+         At step 311 : 
+
+         At step 312 : 
+
+         At step 313 : 
+
+         At step 314 : 
+
+         At step 315 : 
+
+         At step 316 : 
+
+         At step 317 : 
+
+         At step 318 : 
+
+         At step 319 : 
+
+         At step 320 : 
+
+         At step 321 : 
+
+         At step 322 : 
+
+         At step 323 : 
+
+         At step 324 : 
+
+         At step 325 : 
+
+         At step 326 : 
+
+         At step 327 : 
+
+         At step 328 : 
+
+         At step 329 : 
+
+         At step 330 : 
+
+         At step 331 : 
+
+         At step 332 : 
+
+         At step 333 : 
+
+         At step 334 : 
+
+         At step 335 : 
+
+         At step 336 : 
+
+         At step 337 : 
+
+         At step 338 : 
+
+         At step 339 : 
+
+         At step 340 : 
+
+         At step 341 : 
+
+         At step 342 : 
+
+         At step 343 : 
+
+         At step 344 : 
+
+         At step 345 : 
+
+         At step 346 : 
+
+         At step 347 : 
+
+         At step 348 : 
+
+         At step 349 : 
+
+         At step 350 : 
+
+         At step 351 : 
+
+         At step 352 : 
+
+         At step 353 : 
+
+         At step 354 : 
+
+         At step 355 : 
+
+         At step 356 : 
+
+         At step 357 : 
+
+         At step 358 : 
+
+         At step 359 : 
+
+         At step 360 : 
+
+         At step 361 : 
+
+         At step 362 : 
+
+         At step 363 : 
+
+         At step 364 : 
+
+         At step 365 : 
+
+         At step 366 : 
+
+         At step 367 : 
+
+         At step 368 : 
+
+         At step 369 : 
+
+         At step 370 : 
+
+         At step 371 : 
+
+         At step 372 : 
+
+         At step 373 : 
+
+         At step 374 : 
+
+         At step 375 : 
+
+         At step 376 : 
+
+         At step 377 : 
+
+         At step 378 : 
+
+         At step 379 : 
+
+         At step 380 : 
+
+         At step 381 : 
+
+         At step 382 : 
+
+         At step 383 : 
+
+         At step 384 : 
+
+         At step 385 : 
+
+         At step 386 : 
+
+         At step 387 : 
+
+         At step 388 : 
+
+         At step 389 : 
+
+         At step 390 : 
+
+         At step 391 : 
+
+         At step 392 : 
+
+         At step 393 : 
+
+         At step 394 : 
+
+         At step 395 : 
+
+         At step 396 : 
+
+         At step 397 : 
+
+         At step 398 : 
+
+         At step 399 : 
+
+         At step 400 : 
+
+         At step 401 : 
+
+         At step 402 : 
+
+         At step 403 : 
+
+         At step 404 : 
+
+         At step 405 : 
+
+         At step 406 : 
+
+         At step 407 : 
+
+         At step 408 : 
+
+         At step 409 : 
+
+         At step 410 : 
+
+         At step 411 : 
+
+         At step 412 : 
+
+         At step 413 : 
+
+         At step 414 : 
+
+         At step 415 : 
+
+         At step 416 : 
+
+         At step 417 : 
+
+         At step 418 : 
+
+         At step 419 : 
+
+         At step 420 : 
+
+         At step 421 : 
+
+         At step 422 : 
+
+         At step 423 : 
+
+         At step 424 : 
+
+         At step 425 : 
+
+         At step 426 : 
+
+         At step 427 : 
+
+         At step 428 : 
+
+         At step 429 : 
+
+         At step 430 : 
+
+         At step 431 : 
+
+         At step 432 : 
+
+         At step 433 : 
+
+         At step 434 : 
+
+         At step 435 : 
+
+         At step 436 : 
+
+         At step 437 : 
+
+         At step 438 : 
+
+         At step 439 : 
+
+         At step 440 : 
+
+         At step 441 : 
+
+         At step 442 : 
+
+         At step 443 : 
+
+         At step 444 : 
+
+         At step 445 : 
+
+         At step 446 : 
+
+         At step 447 : 
+
+         At step 448 : 
+
+         At step 449 : 
+
+         At step 450 : 
+
+         At step 451 : 
+
+         At step 452 : 
+
+         At step 453 : 
+
+         At step 454 : 
+
+         At step 455 : 
+
+         At step 456 : 
+
+         At step 457 : 
+
+         At step 458 : 
+
+         At step 459 : 
+
+         At step 460 : 
+
+         At step 461 : 
+
+         At step 462 : 
+
+         At step 463 : 
+
+         At step 464 : 
+
+         At step 465 : 
+
+         At step 466 : 
+
+         At step 467 : 
+
+         At step 468 : 
+
+         At step 469 : 
+
+         At step 470 : 
+
+         At step 471 : 
+
+         At step 472 : 
+
+         At step 473 : 
+
+         At step 474 : 
+
+         At step 475 : 
+
+         At step 476 : 
+
+         At step 477 : 
+
+         At step 478 : 
+
+         At step 479 : 
+
+         At step 480 : 
+
+         At step 481 : 
+
+         At step 482 : 
+
+         At step 483 : 
+
+         At step 484 : 
+
+         At step 485 : 
+
+         At step 486 : 
+
+         At step 487 : 
+
+         At step 488 : 
+
+         At step 489 : 
+
+         At step 490 : 
+
+         At step 491 : 
+
+         At step 492 : 
+
+         At step 493 : 
+
+         At step 494 : 
+
+         At step 495 : 
+
+         At step 496 : 
+
+         At step 497 : 
+
+         At step 498 : 
+
+         At step 499 : 
+
+         At step 500 : 
+
+         At step 501 : 
+
+         At step 502 : 
+
+         At step 503 : 
+
+         At step 504 : 
+
+         At step 505 : 
+
+         At step 506 : 
+
+         At step 507 : 
+
+         At step 508 : 
+
+         At step 509 : 
+
+         At step 510 : 
+
+         At step 511 : 
+
+         At step 512 : 
+
+         At step 513 : 
+
+         At step 514 : 
+
+         At step 515 : 
+
+         At step 516 : 
+
+         At step 517 : 
+
+         At step 518 : 
+
+         At step 519 : 
+
+         At step 520 : 
+
+         At step 521 : 
+
+         At step 522 : 
+
+         At step 523 : 
+
+         At step 524 : 
+
+         At step 525 : 
+
+         At step 526 : 
+
+         At step 527 : 
+
+         At step 528 : 
+
+         At step 529 : 
+
+         At step 530 : 
+
+         At step 531 : 
+
+         At step 532 : 
+
+         At step 533 : 
+
+         At step 534 : 
+
+         At step 535 : 
+
+         At step 536 : 
+
+         At step 537 : 
+
+         At step 538 : 
+
+         At step 539 : 
+
+         At step 540 : 
+
+         At step 541 : 
+
+         At step 542 : 
+
+         At step 543 : 
+
+         At step 544 : 
+
+         At step 545 : 
+
+         At step 546 : 
+
+         At step 547 : 
+
+         At step 548 : 
+
+         At step 549 : 
+
+         At step 550 : 
+
+         At step 551 : 
+
+         At step 552 : 
+
+         At step 553 : 
+
+         At step 554 : 
+
+         At step 555 : 
+
+         At step 556 : 
+
+         At step 557 : 
+
+         At step 558 : 
+
+         At step 559 : 
+
+         At step 560 : 
+
+         At step 561 : 
+
+         At step 562 : 
+
+         At step 563 : 
+
+         At step 564 : 
+
+         At step 565 : 
+
+         At step 566 : 
+
+         At step 567 : 
+
+         At step 568 : 
+
+         At step 569 : 
+
+         At step 570 : 
+
+         At step 571 : 
+
+         At step 572 : 
+
+         At step 573 : 
+
+         At step 574 : 
+
+         At step 575 : 
+
+         At step 576 : 
+
+         At step 577 : 
+
+         At step 578 : 
+
+         At step 579 : 
+
+         At step 580 : 
+
+         At step 581 : 
+
+         At step 582 : 
+
+         At step 583 : 
+
+         At step 584 : 
+
+         At step 585 : 
+
+         At step 586 : 
+
+         At step 587 : 
+
+         At step 588 : 
+
+         At step 589 : 
+
+         At step 590 : 
+
+         At step 591 : 
+
+         At step 592 : 
+
+         At step 593 : 
+
+         At step 594 : 
+
+         At step 595 : 
+
+         At step 596 : 
+
+         At step 597 : 
+
+         At step 598 : 
+
+         At step 599 : 
+
+         At step 600 : 
+
+         At step 601 : 
+
+         At step 602 : 
+
+         At step 603 : 
+
+         At step 604 : 
+
+         At step 605 : 
+
+         At step 606 : 
+
+         At step 607 : 
+
+         At step 608 : 
+
+         At step 609 : 
+
+         At step 610 : 
+
+         At step 611 : 
+
+         At step 612 : 
+
+         At step 613 : 
+
+         At step 614 : 
+
+         At step 615 : 
+
+         At step 616 : 
+
+         At step 617 : 
+
+         At step 618 : 
+
+         At step 619 : 
+
+         At step 620 : 
+
+         At step 621 : 
+
+         At step 622 : 
+
+         At step 623 : 
+
+         At step 624 : 
+
+         At step 625 : 
+
+         At step 626 : 
+
+         At step 627 : 
+
+         At step 628 : 
+
+         At step 629 : 
+
+         At step 630 : 
+
+         At step 631 : 
+
+         At step 632 : 
+
+         At step 633 : 
+
+         At step 634 : 
+
+         At step 635 : 
+
+         At step 636 : 
+
+         At step 637 : 
+
+         At step 638 : 
+
+         At step 639 : 
+
+         At step 640 : 
+
+         At step 641 : 
+
+         At step 642 : 
+
+         At step 643 : 
+
+         At step 644 : 
+
+         At step 645 : 
+
+         At step 646 : 
+
+         At step 647 : 
+
+         At step 648 : 
+
+         At step 649 : 
+
+         At step 650 : 
+
+         At step 651 : 
+
+         At step 652 : 
+
+         At step 653 : 
+
+         At step 654 : 
+
+         At step 655 : 
+
+         At step 656 : 
+
+         At step 657 : 
+
+         At step 658 : 
+
+         At step 659 : 
+
+         At step 660 : 
+
+         At step 661 : 
+
+         At step 662 : 
+
+         At step 663 : 
+
+         At step 664 : 
+
+         At step 665 : 
+
+         At step 666 : 
+
+         At step 667 : 
+
+         At step 668 : 
+
+         At step 669 : 
+
+         At step 670 : 
+
+         At step 671 : 
+
+         At step 672 : 
+
+         At step 673 : 
+
+         At step 674 : 
+
+         At step 675 : 
+
+         At step 676 : 
+
+         At step 677 : 
+
+         At step 678 : 
+
+         At step 679 : 
+
+         At step 680 : 
+
+         At step 681 : 
+
+         At step 682 : 
+
+         At step 683 : 
+
+         At step 684 : 
+
+         At step 685 : 
+
+         At step 686 : 
+
+         At step 687 : 
+
+         At step 688 : 
+
+         At step 689 : 
+
+         At step 690 : 
+
+         At step 691 : 
+
+         At step 692 : 
+
+         At step 693 : 
+
+         At step 694 : 
+
+         At step 695 : 
+
+         At step 696 : 
+
+         At step 697 : 
+
+         At step 698 : 
+
+         At step 699 : 
+
+         At step 700 : 
+
+         At step 701 : 
+
+         At step 702 : 
+
+         At step 703 : 
+
+         At step 704 : 
+
+         At step 705 : 
+
+         At step 706 : 
+
+         At step 707 : 
+
+         At step 708 : 
+
+         At step 709 : 
+
+         At step 710 : 
+
+         At step 711 : 
+
+         At step 712 : 
+
+         At step 713 : 
+
+         At step 714 : 
+
+         At step 715 : 
+
+         At step 716 : 
+
+         At step 717 : 
+
+         At step 718 : 
+
+         At step 719 : 
+
+         At step 720 : 
+
+         At step 721 : 
+
+         At step 722 : 
+
+         At step 723 : 
+
+         At step 724 : 
+
+         At step 725 : 
+
+         At step 726 : 
+
+         At step 727 : 
+
+         At step 728 : 
+
+         At step 729 : 
+
+         At step 730 : 
+
+         At step 731 : 
+
+         At step 732 : 
+
+         At step 733 : 
+
+         At step 734 : 
+
+         At step 735 : 
+
+         At step 736 : 
+
+         At step 737 : 
+
+         At step 738 : 
+
+         At step 739 : 
+
+         At step 740 : 
+
+         At step 741 : 
+
+         At step 742 : 
+
+         At step 743 : 
+
+         At step 744 : 
+
+         At step 745 : 
+
+         At step 746 : 
+
+         At step 747 : 
+
+         At step 748 : 
+
+         At step 749 : 
+
+         At step 750 : 
+
+         At step 751 : 
+
+         At step 752 : 
+
+         At step 753 : 
+
+         At step 754 : 
+
+         At step 755 : 
+
+         At step 756 : 
+
+         At step 757 : 
+
+         At step 758 : 
+
+         At step 759 : 
+
+         At step 760 : 
+
+         At step 761 : 
+
+         At step 762 : 
+
+         At step 763 : 
+
+         At step 764 : 
+
+         At step 765 : 
+
+         At step 766 : 
+
+         At step 767 : 
+
+         At step 768 : 
+
+         At step 769 : 
+
+         At step 770 : 
+
+         At step 771 : 
+
+         At step 772 : 
+
+         At step 773 : 
+
+         At step 774 : 
+
+         At step 775 : 
+
+         At step 776 : 
+
+         At step 777 : 
+
+         At step 778 : 
+
+         At step 779 : 
+
+         At step 780 : 
+
+         At step 781 : 
+
+         At step 782 : 
+
+         At step 783 : 
+
+         At step 784 : 
+
+         At step 785 : 
+
+         At step 786 : 
+
+         At step 787 : 
+
+         At step 788 : 
+
+         At step 789 : 
+
+         At step 790 : 
+
+         At step 791 : 
+
+         At step 792 : 
+
+         At step 793 : 
+
+         At step 794 : 
+
+         At step 795 : 
+
+         At step 796 : 
+
+         At step 797 : 
+
+         At step 798 : 
+
+         At step 799 : 
+
+         At step 800 : 
+
+         At step 801 : 
+
+         At step 802 : 
+
+         At step 803 : 
+
+         At step 804 : 
+
+         At step 805 : 
+
+         At step 806 : 
+
+         At step 807 : 
+
+         At step 808 : 
+
+         At step 809 : 
+
+         At step 810 : 
+
+         At step 811 : 
+
+         At step 812 : 
+
+         At step 813 : 
+
+         At step 814 : 
+
+         At step 815 : 
+
+         At step 816 : 
+
+         At step 817 : 
+
+         At step 818 : 
+
+         At step 819 : 
+
+         At step 820 : 
+
+         At step 821 : 
+
+         At step 822 : 
+
+         At step 823 : 
+
+         At step 824 : 
+
+         At step 825 : 
+
+         At step 826 : 
+
+         At step 827 : 
+
+         At step 828 : 
+
+         At step 829 : 
+
+         At step 830 : 
+
+         At step 831 : 
+
+         At step 832 : 
+
+         At step 833 : 
+
+         At step 834 : 
+
+         At step 835 : 
+
+         At step 836 : 
+
+         At step 837 : 
+
+         At step 838 : 
+
+         At step 839 : 
+
+         At step 840 : 
+
+         At step 841 : 
+
+         At step 842 : 
+
+         At step 843 : 
+
+         At step 844 : 
+
+         At step 845 : 
+
+         At step 846 : 
+
+         At step 847 : 
+
+         At step 848 : 
+
+         At step 849 : 
+
+         At step 850 : 
+
+         At step 851 : 
+
+         At step 852 : 
+
+         At step 853 : 
+
+         At step 854 : 
+
+         At step 855 : 
+
+         At step 856 : 
+
+         At step 857 : 
+
+         At step 858 : 
+
+         At step 859 : 
+
+         At step 860 : 
+
+         At step 861 : 
+
+         At step 862 : 
+
+         At step 863 : 
+
+         At step 864 : 
+
+         At step 865 : 
+
+         At step 866 : 
+
+         At step 867 : 
+
+         At step 868 : 
+
+         At step 869 : 
+
+         At step 870 : 
+
+         At step 871 : 
+
+         At step 872 : 
+
+         At step 873 : 
+
+         At step 874 : 
+
+         At step 875 : 
+
+         At step 876 : 
+
+         At step 877 : 
+
+         At step 878 : 
+
+         At step 879 : 
+
+         At step 880 : 
+
+         At step 881 : 
+
+         At step 882 : 
+
+         At step 883 : 
+
+         At step 884 : 
+
+         At step 885 : 
+
+         At step 886 : 
+
+         At step 887 : 
+
+         At step 888 : 
+
+         At step 889 : 
+
+         At step 890 : 
+
+         At step 891 : 
+
+         At step 892 : 
+
+         At step 893 : 
+
+         At step 894 : 
+
+         At step 895 : 
+
+         At step 896 : 
+
+         At step 897 : 
+
+         At step 898 : 
+
+         At step 899 : 
+
+         At step 900 : 
+
+         At step 901 : 
+
+         At step 902 : 
+
+         At step 903 : 
+
+         At step 904 : 
+
+         At step 905 : 
+
+         At step 906 : 
+
+         At step 907 : 
+
+         At step 908 : 
+
+         At step 909 : 
+
+         At step 910 : 
+
+         At step 911 : 
+
+         At step 912 : 
+
+         At step 913 : 
+
+         At step 914 : 
+
+         At step 915 : 
+
+         At step 916 : 
+
+         At step 917 : 
+
+         At step 918 : 
+
+         At step 919 : 
+
+         At step 920 : 
+
+         At step 921 : 
+
+         At step 922 : 
+
+         At step 923 : 
+
+         At step 924 : 
+
+         At step 925 : 
+
+         At step 926 : 
+
+         At step 927 : 
+
+         At step 928 : 
+
+         At step 929 : 
+
+         At step 930 : 
+
+         At step 931 : 
+
+         At step 932 : 
+
+         At step 933 : 
+
+         At step 934 : 
+
+         At step 935 : 
+
+         At step 936 : 
+
+         At step 937 : 
+
+         At step 938 : 
+
+         At step 939 : 
+
+         At step 940 : 
+
+         At step 941 : 
+
+         At step 942 : 
+
+         At step 943 : 
+
+         At step 944 : 
+
+         At step 945 : 
+
+         At step 946 : 
+
+         At step 947 : 
+
+         At step 948 : 
+
+         At step 949 : 
+
+         At step 950 : 
+
+         At step 951 : 
+
+         At step 952 : 
+
+         At step 953 : 
+
+         At step 954 : 
+
+         At step 955 : 
+
+         At step 956 : 
+
+         At step 957 : 
+
+         At step 958 : 
+
+         At step 959 : 
+
+         At step 960 : 
+
+         At step 961 : 
+
+         At step 962 : 
+
+         At step 963 : 
+
+         At step 964 : 
+
+         At step 965 : 
+
+         At step 966 : 
+
+         At step 967 : 
+
+         At step 968 : 
+
+         At step 969 : 
+
+         At step 970 : 
+
+         At step 971 : 
+
+         At step 972 : 
+
+         At step 973 : 
+
+         At step 974 : 
+
+         At step 975 : 
+
+         At step 976 : 
+
+         At step 977 : 
+
+         At step 978 : 
+
+         At step 979 : 
+
+         At step 980 : 
+
+         At step 981 : 
+
+         At step 982 : 
+
+         At step 983 : 
+
+         At step 984 : 
+
+         At step 985 : 
+
+         At step 986 : 
+
+         At step 987 : 
+
+         At step 988 : 
+
+         At step 989 : 
+
+         At step 990 : 
+
+         At step 991 : 
+
+         At step 992 : 
+
+         At step 993 : 
+
+         At step 994 : 
+
+         At step 995 : 
+
+         At step 996 : 
+
+         At step 997 : 
+
+         At step 998 : 
+
+         At step 999 : 
+
+         At step 1000 : 
+
+         At step 1001 : 
+
+         At step 1002 : 
+
+         At step 1003 : 
+
+         At step 1004 : 
+
+         At step 1005 : 
+
+         At step 1006 : 
+
+         At step 1007 : 
+
+         At step 1008 : 
+
+         At step 1009 : 
+
+         At step 1010 : 
+
+         At step 1011 : 
+
+         At step 1012 : 
+
+         At step 1013 : 
+
+         At step 1014 : 
+
+         At step 1015 : 
+
+         At step 1016 : 
+
+         At step 1017 : 
+
+         At step 1018 : 
+
+         At step 1019 : 
+
+         At step 1020 : 
+
+         At step 1021 : 
+
+         At step 1022 : 
+
+         At step 1023 : 

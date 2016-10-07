@@ -1,0 +1,312 @@
+
+ At step 143, moveP 103, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 235, moveP 463, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 849, moveP 431, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 967, reordered the matrix because flag = 3. 
+
+ At step 1151, moveP 395, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 1296, moveP 756, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 1732, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 1920, reordered the matrix because flag = 3. 
+
+ At step 1933, moveP 285, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 1996, reordered the matrix because flag = 2. 
+
+ At step 2002, moveP 200, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 2181, moveP 927, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 2328, moveP 793, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 2362, moveP 216, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 2382, moveP 345, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 2566, moveP 666, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 2663, moveP 37, reordered the matrix LOCALLY -> global cut. Localsize 37 
+
+ At step 2705, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 2722, moveP 695, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 2788, moveP 927, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 2822, moveP 366, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 2864, moveP 695, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 2923, reordered the matrix because flag = 3. 
+
+ At step 3365, moveP 622, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 3497, moveP 927, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 3757, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 3788, moveP 552, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 3906, reordered the matrix because flag = 3. 
+
+ At step 3914, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 3931, moveP 355, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 4134, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 4209, moveP 552, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 4572, reordered the matrix because flag = 2. 
+
+ At step 4680, moveP 746, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 4788, moveP 565, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 5000, accept move is 3215, 
+ Accept ratio is 64.3000
+ At step 5066, moveP 245, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 5070, moveP 764, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 5300, moveP 1020, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 5366, moveP 695, reordered the matrix LOCALLY -> global cut. Localsize 33 
+
+ At step 5509, reordered the matrix because flag = 3. 
+
+ At step 5586, moveP 585, reordered the matrix LOCALLY -> global cut. Localsize 43 
+
+ At step 5624, moveP 239, reordered the matrix LOCALLY -> global cut. Localsize 44 
+
+ At step 5712, moveP 512, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 5845, reordered the matrix because flag = 2. 
+
+ At step 6273, moveP 536, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 6308, moveP 436, reordered the matrix LOCALLY -> global cut. Localsize 44 
+
+ At step 6351, moveP 861, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 6427, moveP 943, reordered the matrix LOCALLY -> global cut. Localsize 43 
+
+ At step 6657, moveP 213, reordered the matrix LOCALLY -> global cut. Localsize 43 
+
+ At step 6845, reordered the matrix because flag = 3. 
+
+ At step 6892, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 7038, moveP 156, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 7255, moveP 527, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 7383, moveP 331, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 7384, moveP 436, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 7505, moveP 431, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 7774, moveP 11, reordered the matrix LOCALLY -> global cut. Localsize 37 
+
+ At step 7840, reordered the matrix because flag = 3. 
+
+ At step 7841, moveP 355, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 8071, moveP 539, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 8113, moveP 793, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 8173, moveP 695, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 8205, moveP 527, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 8305, moveP 991, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 8472, moveP 239, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 8555, moveP 310, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 8798, reordered the matrix because flag = 3. 
+
+ At step 8811, moveP 512, reordered the matrix LOCALLY -> global cut. Localsize 43 
+
+ At step 9028, moveP 497, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 9058, moveP 239, reordered the matrix LOCALLY -> global cut. Localsize 44 
+
+ At step 9094, moveP 9, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 9241, moveP 512, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 9325, reordered the matrix because flag = 2. 
+
+ At step 9596, moveP 127, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 9638, moveP 248, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 9668, moveP 1020, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 9889, moveP 606, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 9977, moveP 40, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 9989, moveP 213, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 10000, accept move is 6331, 
+ Accept ratio is 63.3100
+ At step 10017, moveP 613, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 10134, moveP 799, reordered the matrix LOCALLY -> global cut. Localsize 44 
+
+ At step 10284, reordered the matrix because flag = 3. 
+
+ At step 10332, moveP 273, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 10346, moveP 772, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 10452, moveP 245, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 10723, moveP 13, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 10796, moveP 634, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 10995, moveP 782, reordered the matrix LOCALLY -> local cut. Localsize 40 
+
+ At step 11032, moveP 214, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 11169, moveP 43, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 11280, reordered the matrix because flag = 3. 
+
+ At step 11431, moveP 220, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 11463, moveP 793, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 11766, moveP 998, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 11911, moveP 344, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 11991, moveP 681, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 12026, moveP 607, reordered the matrix LOCALLY -> global cut. Localsize 37 
+
+ At step 12206, moveP 771, reordered the matrix LOCALLY -> local cut. Localsize 42 
+
+ At step 12270, reordered the matrix because flag = 3. 
+
+ At step 12280, moveP 111, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 12570, moveP 291, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 12810, moveP 327, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 12823, moveP 603, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 12923, moveP 523, reordered the matrix LOCALLY -> global cut. Localsize 36 
+
+ At step 12934, moveP 601, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 13018, moveP 842, reordered the matrix LOCALLY -> global cut. Localsize 43 
+
+ At step 13185, moveP 601, reordered the matrix LOCALLY -> global cut. Localsize 37 
+
+ At step 13222, reordered the matrix because flag = 3. 
+
+ At step 13346, moveP 601, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 13433, moveP 734, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 13697, moveP 734, reordered the matrix LOCALLY -> local cut. Localsize 44 
+
+ At step 13939, moveP 454, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 14056, moveP 859, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 14188, reordered the matrix because flag = 3. 
+
+ At step 14257, moveP 20, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 14364, moveP 273, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 14526, moveP 675, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 14552, moveP 675, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 14744, moveP 614, reordered the matrix LOCALLY -> global cut. Localsize 37 
+
+ At step 14800, moveP 929, reordered the matrix LOCALLY -> global cut. Localsize 44 
+
+ At step 15000, accept move is 9472, 
+ Accept ratio is 63.1467
+ At step 15102, moveP 866, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 15128, moveP 532, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 15176, reordered the matrix because flag = 3. 
+
+ At step 15360, moveP 792, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 15652, moveP 188, reordered the matrix LOCALLY -> global cut. Localsize 38 
+
+ At step 15787, reordered the matrix because flag = 2. 
+
+ At step 15798, moveP 411, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 16094, reordered the matrix because flag = 2. 
+
+ At step 16250, moveP 663, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 16514, moveP 976, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 16757, moveP 784, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 16779, moveP 411, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 16870, moveP 548, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 16879, moveP 663, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 17002, moveP 707, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 17084, reordered the matrix because flag = 3. 
+
+ At step 17182, moveP 142, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 17737, moveP 331, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 17829, moveP 198, reordered the matrix LOCALLY -> global cut. Localsize 33 
+
+ At step 17954, moveP 331, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 18036, reordered the matrix because flag = 3. 
+
+ At step 18104, moveP 814, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 18260, moveP 827, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 18392, moveP 261, reordered the matrix LOCALLY -> global cut. Localsize 42 
+
+ At step 18525, moveP 997, reordered the matrix LOCALLY -> global cut. Localsize 40 
+
+ At step 18609, moveP 791, reordered the matrix LOCALLY -> global cut. Localsize 39 
+
+ At step 18620, moveP 830, reordered the matrix LOCALLY -> local cut. Localsize 41 
+
+ At step 19006, reordered the matrix because flag = 3. 
+
+ At step 19835, moveP 818, reordered the matrix LOCALLY -> global cut. Localsize 41 
+
+ At step 19988, reordered the matrix because flag = 3. 
+
+ At step 20000, accept move is 12595, 
+ Accept ratio is 62.9750
+ 12595 out of 20000 movements are accepted. Accept ratio is 62.9750%  
+
+ Finally, after 20000 steps, pass = 7. 

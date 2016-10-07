@@ -1,0 +1,237 @@
+
+ At step 248, reordered the matrix. cutoff value is 0.010000. 
+ min_diagA_before = 0.006650, min_diagA_af = 0.011253, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = -0.000079 
+
+ At step 375, reordered the matrix. cutoff value is 0.010000. 
+ min_diagA_before = 0.011253, min_diagA_af = 0.011253, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.508312 
+
+ At step 739, reordered the matrix. cutoff value is 0.010000. 
+ min_diagA_before = 0.007976, min_diagA_af = 0.011253, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.690619 
+
+ At step 1078, reordered the matrix. cutoff value is 0.020000. 
+ min_diagA_before = 0.008616, min_diagA_af = 0.020781, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.468935 
+
+ At step 1227, reordered the matrix. cutoff value is 0.020000. 
+ min_diagA_before = 0.011287, min_diagA_af = 0.020653, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = -0.009564 
+
+ At step 1415, reordered the matrix. cutoff value is 0.018000. 
+ min_diagA_before = 0.007919, min_diagA_af = 0.018801, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.927759 
+
+ At step 1636, reordered the matrix. cutoff value is 0.018000. 
+ min_diagA_before = 0.013783, min_diagA_af = 0.018801, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = -0.131656 
+
+ At step 1749, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.012794, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.523087 
+
+ At step 1750, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.026408 
+
+ At step 1751, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.994178 
+
+ At step 1752, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.015020 
+
+ At step 1753, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.035663 
+
+ At step 1754, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.993955 
+
+ At step 1756, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.953480 
+
+ At step 1759, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.955106 
+
+ At step 1761, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.995101 
+
+ At step 1762, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.947370 
+
+ At step 1763, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.032401 
+
+ At step 1765, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.053741 
+
+ At step 1766, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.990716 
+
+ At step 1767, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.956321 
+
+ At step 1768, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.018973 
+
+ At step 1771, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.986506 
+
+ At step 1773, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.986854 
+
+ At step 1774, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.980294 
+
+ At step 1775, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.970334 
+
+ At step 1776, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.978614 
+
+ At step 1777, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.151289 
+
+ At step 1778, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.990384 
+
+ At step 1779, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.023843 
+
+ At step 1782, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.890275 
+
+ At step 1785, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.966258 
+
+ At step 1786, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.036043 
+
+ At step 1787, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.867152 
+
+ At step 1788, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.930385 
+
+ At step 1789, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.012199 
+
+ At step 1790, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.997947 
+
+ At step 1791, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.925881 
+
+ At step 1794, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.980018 
+
+ At step 1796, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.000493 
+
+ At step 1797, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.993969 
+
+ At step 1798, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.020551 
+
+ At step 1799, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.008428 
+
+ At step 1800, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.122013 
+
+ At step 1802, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.967997 
+
+ At step 1805, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.172523 
+
+ At step 1807, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.982641 
+
+ At step 1808, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.958405 
+
+ At step 1810, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.068460 
+
+ At step 1812, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.000836 
+
+ At step 1814, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.935634 
+
+ At step 1817, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.038020 
+
+ At step 1819, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.988171 
+
+ At step 1820, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.946721 
+
+ At step 1821, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.007725 
+
+ At step 1823, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.965106 
+
+ At step 1827, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.000000 
+
+ At step 1830, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.016947 
+
+ At step 1831, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.978221 
+
+ At step 1833, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.992263 
+
+ At step 1835, reordered the matrix. cutoff value is 0.028000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.963652 
+
+ At step 1836, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.024972 
+
+ At step 1837, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.921724 
+
+ At step 1838, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.908776 
+
+ At step 1839, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.993627 
+
+ At step 1841, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.958092 
+
+ At step 1842, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.999055 
+
+ At step 1845, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.084271 
+
+ At step 1846, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.978682 
+
+ At step 1847, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.032620 
+
+ At step 1849, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.981822 
+
+ At step 1851, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.948077 
+
+ At step 1852, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.066165 
+
+ At step 1853, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.976102 
+
+ At step 1855, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 0.997645 
+
+ At step 1860, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.002642 
+
+ At step 1861, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.010425 
+
+ At step 1864, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.024420 
+
+ At step 1865, reordered the matrix. cutoff value is 0.030000. 
+ min_diagA_before = 0.000000, min_diagA_af = 0.000000, min(0.5*cutoff, 5e-4) = 0.000500, temp3 = 1.010947 

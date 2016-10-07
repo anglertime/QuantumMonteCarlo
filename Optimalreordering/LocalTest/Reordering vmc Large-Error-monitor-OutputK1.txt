@@ -1,0 +1,4 @@
+
+ 465 out of 1000 movements are accepted. Accept ratio is 46.5000%  
+
+ Finally, after 1000 steps, pass = 0. 

@@ -1,0 +1,478 @@
+At step 1, Cutoff is 0.027741. We swap row 153 and row 138. 
+We fix row 138. 
+At step 2, Cutoff is 0.028302. We swap row 257 and row 258. 
+We fix row 258. 
+At step 3, Cutoff is 0.031941. We swap row 978 and row 97. 
+We fix row 97. 
+At step 4, Cutoff is 0.032286. We swap row 458 and row 475. 
+We fix row 475. 
+At step 5, Cutoff is 0.032538. We swap row 291 and row 290. 
+We fix row 290. 
+At step 6, Cutoff is 0.032754. We swap row 380 and row 395. 
+We fix row 395. 
+At step 7, Cutoff is 0.033035. We swap row 723 and row 851. 
+We fix row 851. 
+At step 8, Cutoff is 0.029782. We swap row 579 and row 707. 
+We fix row 707. 
+At step 9, Cutoff is 0.012972. We swap row 580 and row 579. 
+We fix row 579. 
+At step 10, Cutoff is 0.029222. We swap row 724 and row 722. 
+We fix row 722. 
+At step 11, Cutoff is 0.031270. We swap row 753 and row 738. 
+We fix row 738. 
+At step 12, Cutoff is 0.033285. We swap row 270 and row 271. 
+We fix row 271. 
+At step 13, Cutoff is 0.029867. We swap row 396 and row 397. 
+We fix row 397. 
+At step 14, Cutoff is 0.029777. We swap row 541 and row 396. 
+We fix row 396. 
+At step 15, Cutoff is 0.033911. We swap row 20 and row 149. 
+We fix row 149. 
+At step 16, Cutoff is 0.033949. We swap row 130 and row 273. 
+We fix row 273. 
+At step 17, Cutoff is 0.034070. We swap row 93 and row 78. 
+We fix row 78. 
+At step 18, Cutoff is 0.034220. We swap row 434 and row 435. 
+We fix row 435. 
+At step 19, Cutoff is 0.034339. We swap row 260 and row 403. 
+We fix row 403. 
+At step 20, Cutoff is 0.032787. We swap row 275 and row 260. 
+We fix row 260. 
+At step 21, Cutoff is 0.034945. We swap row 699 and row 697. 
+We fix row 697. 
+At step 22, Cutoff is 0.031619. We swap row 684 and row 683. 
+We fix row 683. 
+At step 23, Cutoff is 0.029624. We swap row 827 and row 811. 
+We fix row 811. 
+At step 24, Cutoff is 0.027696. We swap row 699 and row 825. 
+We fix row 825. 
+At step 25, Cutoff is 0.023190. We swap row 682 and row 699. 
+We fix row 699. 
+At step 26, Cutoff is 0.034851. We swap row 701 and row 684. 
+We fix row 684. 
+At step 27, Cutoff is 0.035151. We swap row 751 and row 624. 
+We fix row 624. 
+At step 28, Cutoff is 0.021168. We swap row 749 and row 751. 
+We fix row 751. 
+At step 29, Cutoff is 0.025921. We swap row 732 and row 749. 
+We fix row 749. 
+At step 30, Cutoff is 0.036039. We swap row 259 and row 257. 
+We fix row 257. 
+At step 31, Cutoff is 0.036203. We swap row 72 and row 71. 
+We fix row 71. 
+At step 32, Cutoff is 0.036226. We swap row 442 and row 459. 
+We fix row 459. 
+At step 33, Cutoff is 0.034136. We swap row 268 and row 413. 
+We fix row 413. 
+At step 34, Cutoff is 0.034841. We swap row 571 and row 442. 
+We fix row 442. 
+At step 35, Cutoff is 0.034049. We swap row 555 and row 556. 
+We fix row 556. 
+At step 36, Cutoff is 0.036330. We swap row 399 and row 270. 
+We fix row 270. 
+At step 37, Cutoff is 0.025714. We swap row 254 and row 381. 
+We fix row 381. 
+At step 38, Cutoff is 0.030927. We swap row 510 and row 382. 
+We fix row 382. 
+At step 39, Cutoff is 0.012329. We swap row 510 and row 399. 
+We fix row 399. 
+At step 40, Cutoff is 0.012276. We swap row 525 and row 398. 
+We fix row 398. 
+At step 41, Cutoff is 0.007039. We swap row 638 and row 525. 
+We fix row 525. 
+At step 42, Cutoff is 0.011583. We swap row 380 and row 269. 
+We fix row 269. 
+At step 43, Cutoff is 0.011534. We swap row 508 and row 268. 
+We fix row 268. 
+At step 44, Cutoff is 0.010450. We swap row 508 and row 510. 
+We fix row 510. 
+At step 45, Cutoff is 0.009818. We swap row 267 and row 380. 
+We fix row 380. 
+At step 46, Cutoff is 0.003333. We swap row 508 and row 509. 
+We fix row 509. 
+At step 47, Cutoff is 0.003318. We swap row 637 and row 508. 
+We fix row 508. 
+At step 48, Cutoff is 0.000234. We swap row 241 and row 3. 
+We fix row 3. 
+At step 49, Cutoff is 0.000234. We swap row 285 and row 415. 
+We fix row 415. 
+At step 50, Cutoff is 0.000220. We swap row 142 and row 285. 
+We fix row 285. 
+At step 51, Cutoff is 0.000170. We swap row 507 and row 511. 
+We fix row 511. 
+At step 52, Cutoff is 0.000067. We swap row 1018 and row 905. 
+We fix row 905. 
+At step 53, Cutoff is 0.000067. We swap row 840 and row 969. 
+We fix row 969. 
+At step 54, Cutoff is 0.000067. We swap row 272 and row 527. 
+We fix row 527. 
+At step 55, Cutoff is 0.000059. We swap row 507 and row 267. 
+We fix row 267. 
+At step 56, Cutoff is 0.000029. We swap row 543 and row 286. 
+We fix row 286. 
+At step 57, Cutoff is 0.000029. We swap row 584 and row 599. 
+We fix row 599. 
+At step 58, Cutoff is 0.000029. We swap row 660 and row 546. 
+We fix row 546. 
+At step 59, Cutoff is 0.000029. We swap row 952 and row 89. 
+We fix row 89. 
+At step 60, Cutoff is 0.000029. We swap row 833 and row 863. 
+We fix row 863. 
+At step 61, Cutoff is 0.000029. We swap row 142 and row 272. 
+We fix row 272. 
+At step 62, Cutoff is 0.000028. We swap row 875 and row 860. 
+We fix row 860. 
+At step 63, Cutoff is 0.000028. We swap row 889 and row 886. 
+We fix row 886. 
+At step 64, Cutoff is 0.000028. We swap row 96 and row 111. 
+We fix row 111. 
+At step 65, Cutoff is 0.000028. We swap row 896 and row 894. 
+We fix row 894. 
+At step 66, Cutoff is 0.000028. We swap row 1 and row 1016. 
+We fix row 1016. 
+At step 67, Cutoff is 0.000028. We swap row 792 and row 774. 
+We fix row 774. 
+At step 68, Cutoff is 0.000028. We swap row 254 and row 142. 
+We fix row 142. 
+At step 69, Cutoff is 0.000025. We swap row 800 and row 801. 
+We fix row 801. 
+At step 70, Cutoff is 0.000025. We swap row 845 and row 991. 
+We fix row 991. 
+At step 71, Cutoff is 0.000025. We swap row 383 and row 224. 
+We fix row 224. 
+At step 72, Cutoff is 0.000025. We swap row 310 and row 312. 
+We fix row 312. 
+At step 73, Cutoff is 0.000025. We swap row 631 and row 376. 
+We fix row 376. 
+At step 74, Cutoff is 0.000025. We swap row 374 and row 503. 
+We fix row 503. 
+At step 75, Cutoff is 0.000025. We swap row 721 and row 691. 
+We fix row 691. 
+At step 76, Cutoff is 0.000025. We swap row 130 and row 129. 
+We fix row 129. 
+At step 77, Cutoff is 0.000025. We swap row 77 and row 61. 
+We fix row 61. 
+At step 78, Cutoff is 0.000025. We swap row 463 and row 607. 
+We fix row 607. 
+At step 79, Cutoff is 0.000025. We swap row 121 and row 106. 
+We fix row 106. 
+At step 80, Cutoff is 0.000025. We swap row 962 and row 993. 
+We fix row 993. 
+At step 81, Cutoff is 0.000025. We swap row 133 and row 245. 
+We fix row 245. 
+At step 82, Cutoff is 0.000025. We swap row 587 and row 570. 
+We fix row 570. 
+At step 83, Cutoff is 0.000025. We swap row 940 and row 812. 
+We fix row 812. 
+At step 84, Cutoff is 0.000025. We swap row 642 and row 657. 
+We fix row 657. 
+At step 85, Cutoff is 0.000025. We swap row 473 and row 315. 
+We fix row 315. 
+At step 86, Cutoff is 0.000025. We swap row 57 and row 59. 
+We fix row 59. 
+At step 87, Cutoff is 0.000025. We swap row 383 and row 384. 
+We fix row 384. 
+At step 88, Cutoff is 0.000025. We swap row 857 and row 842. 
+We fix row 842. 
+At step 89, Cutoff is 0.000025. We swap row 1 and row 449. 
+We fix row 449. 
+At step 90, Cutoff is 0.000025. We swap row 1 and row 366. 
+We fix row 366. 
+At step 91, Cutoff is 0.000025. We swap row 109 and row 123. 
+We fix row 123. 
+At step 92, Cutoff is 0.000025. We swap row 458 and row 460. 
+We fix row 460. 
+At step 93, Cutoff is 0.000025. We swap row 152 and row 279. 
+We fix row 279. 
+At step 94, Cutoff is 0.000025. We swap row 241 and row 992. 
+We fix row 992. 
+At step 95, Cutoff is 0.000025. We swap row 411 and row 541. 
+We fix row 541. 
+At step 96, Cutoff is 0.000024. We swap row 568 and row 458. 
+We fix row 458. 
+At step 97, Cutoff is 0.000024. We swap row 141 and row 1. 
+We fix row 1. 
+At step 98, Cutoff is 0.000024. We swap row 922 and row 937. 
+We fix row 937. 
+At step 99, Cutoff is 0.000024. We swap row 174 and row 176. 
+We fix row 176. 
+At step 100, Cutoff is 0.000024. We swap row 871 and row 598. 
+We fix row 598. 
+At step 101, Cutoff is 0.000024. We swap row 876 and row 1005. 
+We fix row 1005. 
+At step 102, Cutoff is 0.000024. We swap row 2 and row 254. 
+We fix row 254. 
+At step 103, Cutoff is 0.000024. We swap row 507 and row 411. 
+We fix row 411. 
+At step 104, Cutoff is 0.000018. We swap row 16 and row 4. 
+We fix row 4. 
+At step 105, Cutoff is 0.000018. We swap row 512 and row 637. 
+We fix row 637. 
+At step 106, Cutoff is 0.000017. We swap row 875 and row 857. 
+We fix row 857. 
+At step 107, Cutoff is 0.000017. We swap row 2 and row 355. 
+We fix row 355. 
+At step 108, Cutoff is 0.000017. We swap row 137 and row 151. 
+We fix row 151. 
+At step 109, Cutoff is 0.000017. We swap row 2 and row 35. 
+We fix row 35. 
+At step 110, Cutoff is 0.000017. We swap row 161 and row 33. 
+We fix row 33. 
+At step 111, Cutoff is 0.000017. We swap row 981 and row 117. 
+We fix row 117. 
+At step 112, Cutoff is 0.000017. We swap row 680 and row 695. 
+We fix row 695. 
+At step 113, Cutoff is 0.000017. We swap row 470 and row 580. 
+We fix row 580. 
+At step 114, Cutoff is 0.000017. We swap row 748 and row 761. 
+We fix row 761. 
+At step 115, Cutoff is 0.000017. We swap row 328 and row 424. 
+We fix row 424. 
+At step 116, Cutoff is 0.000017. We swap row 785 and row 799. 
+We fix row 799. 
+At step 117, Cutoff is 0.000017. We swap row 963 and row 949. 
+We fix row 949. 
+At step 118, Cutoff is 0.000017. We swap row 113 and row 115. 
+We fix row 115. 
+At step 119, Cutoff is 0.000017. We swap row 528 and row 685. 
+We fix row 685. 
+At step 120, Cutoff is 0.000017. We swap row 102 and row 247. 
+We fix row 247. 
+At step 121, Cutoff is 0.000017. We swap row 310 and row 324. 
+We fix row 324. 
+At step 122, Cutoff is 0.000017. We swap row 474 and row 585. 
+We fix row 585. 
+At step 123, Cutoff is 0.000017. We swap row 62 and row 46. 
+We fix row 46. 
+At step 124, Cutoff is 0.000017. We swap row 487 and row 489. 
+We fix row 489. 
+At step 125, Cutoff is 0.000017. We swap row 86 and row 104. 
+We fix row 104. 
+At step 126, Cutoff is 0.000017. We swap row 748 and row 861. 
+We fix row 861. 
+At step 127, Cutoff is 0.000017. We swap row 364 and row 507. 
+We fix row 507. 
+At step 128, Cutoff is 0.000011. We swap row 873 and row 726. 
+We fix row 726. 
+At step 129, Cutoff is 0.000011. We swap row 2 and row 300. 
+We fix row 300. 
+At step 130, Cutoff is 0.000011. We swap row 955 and row 989. 
+We fix row 989. 
+At step 131, Cutoff is 0.000011. We swap row 2 and row 441. 
+We fix row 441. 
+At step 132, Cutoff is 0.000011. We swap row 121 and row 232. 
+We fix row 232. 
+At step 133, Cutoff is 0.000011. We swap row 264 and row 265. 
+We fix row 265. 
+At step 134, Cutoff is 0.000011. We swap row 930 and row 931. 
+We fix row 931. 
+At step 135, Cutoff is 0.000011. We swap row 802 and row 817. 
+We fix row 817. 
+At step 136, Cutoff is 0.000011. We swap row 625 and row 513. 
+We fix row 513. 
+At step 137, Cutoff is 0.000011. We swap row 2 and row 174. 
+We fix row 174. 
+At step 138, Cutoff is 0.000011. We swap row 881 and row 656. 
+We fix row 656. 
+At step 139, Cutoff is 0.000011. We swap row 848 and row 834. 
+We fix row 834. 
+At step 140, Cutoff is 0.000011. We swap row 2 and row 153. 
+We fix row 153. 
+At step 141, Cutoff is 0.000011. We swap row 913 and row 785. 
+We fix row 785. 
+At step 142, Cutoff is 0.000011. We swap row 280 and row 407. 
+We fix row 407. 
+At step 143, Cutoff is 0.000011. We swap row 408 and row 423. 
+We fix row 423. 
+At step 144, Cutoff is 0.000011. We swap row 692 and row 961. 
+We fix row 961. 
+At step 145, Cutoff is 0.000011. We swap row 611 and row 483. 
+We fix row 483. 
+At step 146, Cutoff is 0.000011. We swap row 943 and row 797. 
+We fix row 797. 
+At step 147, Cutoff is 0.000011. We swap row 340 and row 338. 
+We fix row 338. 
+At step 148, Cutoff is 0.000011. We swap row 124 and row 126. 
+We fix row 126. 
+At step 149, Cutoff is 0.000011. We swap row 938 and row 843. 
+We fix row 843. 
+At step 150, Cutoff is 0.000011. We swap row 666 and row 682. 
+We fix row 682. 
+At step 151, Cutoff is 0.000011. We swap row 866 and row 867. 
+We fix row 867. 
+At step 152, Cutoff is 0.000011. We swap row 959 and row 816. 
+We fix row 816. 
+At step 153, Cutoff is 0.000011. We swap row 221 and row 383. 
+We fix row 383. 
+At step 154, Cutoff is 0.000011. We swap row 362 and row 361. 
+We fix row 361. 
+At step 155, Cutoff is 0.000011. We swap row 932 and row 918. 
+We fix row 918. 
+At step 156, Cutoff is 0.000011. We swap row 2 and row 156. 
+We fix row 156. 
+At step 157, Cutoff is 0.000011. We swap row 516 and row 533. 
+We fix row 533. 
+At step 158, Cutoff is 0.000011. We swap row 81 and row 976. 
+We fix row 976. 
+At step 159, Cutoff is 0.000011. We swap row 782 and row 784. 
+We fix row 784. 
+At step 160, Cutoff is 0.000011. We swap row 2 and row 44. 
+We fix row 44. 
+At step 161, Cutoff is 0.000011. We swap row 526 and row 524. 
+We fix row 524. 
+At step 162, Cutoff is 0.000011. We swap row 667 and row 813. 
+We fix row 813. 
+At step 163, Cutoff is 0.000011. We swap row 2 and row 616. 
+We fix row 616. 
+At step 164, Cutoff is 0.000011. We swap row 363 and row 236. 
+We fix row 236. 
+At step 165, Cutoff is 0.000011. We swap row 2 and row 730. 
+We fix row 730. 
+At step 166, Cutoff is 0.000011. We swap row 935 and row 922. 
+We fix row 922. 
+At step 167, Cutoff is 0.000011. We swap row 2 and row 921. 
+We fix row 921. 
+At step 168, Cutoff is 0.000011. We swap row 352 and row 353. 
+We fix row 353. 
+At step 169, Cutoff is 0.000011. We swap row 2 and row 432. 
+We fix row 432. 
+At step 170, Cutoff is 0.000011. We swap row 418 and row 434. 
+We fix row 434. 
+At step 171, Cutoff is 0.000011. We swap row 140 and row 287. 
+We fix row 287. 
+At step 172, Cutoff is 0.000010. We swap row 771 and row 769. 
+We fix row 769. 
+At step 173, Cutoff is 0.000010. We swap row 427 and row 299. 
+We fix row 299. 
+At step 174, Cutoff is 0.000010. We swap row 693 and row 564. 
+We fix row 564. 
+At step 175, Cutoff is 0.000010. We swap row 634 and row 620. 
+We fix row 620. 
+At step 176, Cutoff is 0.000010. We swap row 63 and row 47. 
+We fix row 47. 
+At step 177, Cutoff is 0.000010. We swap row 2 and row 912. 
+We fix row 912. 
+At step 178, Cutoff is 0.000010. We swap row 1007 and row 878. 
+We fix row 878. 
+At step 179, Cutoff is 0.000010. We swap row 244 and row 133. 
+We fix row 133. 
+At step 180, Cutoff is 0.000010. We swap row 2 and row 282. 
+We fix row 282. 
+At step 181, Cutoff is 0.000010. We swap row 2 and row 900. 
+We fix row 900. 
+At step 182, Cutoff is 0.000010. We swap row 609 and row 466. 
+We fix row 466. 
+At step 183, Cutoff is 0.000010. We swap row 2 and row 652. 
+We fix row 652. 
+At step 184, Cutoff is 0.000010. We swap row 764 and row 895. 
+We fix row 895. 
+At step 185, Cutoff is 0.000010. We swap row 196 and row 195. 
+We fix row 195. 
+At step 186, Cutoff is 0.000010. We swap row 373 and row 244. 
+We fix row 244. 
+At step 187, Cutoff is 0.000010. We swap row 480 and row 623. 
+We fix row 623. 
+At step 188, Cutoff is 0.000010. We swap row 1024 and row 1009. 
+We fix row 1009. 
+At step 189, Cutoff is 0.000010. We swap row 970 and row 77. 
+We fix row 77. 
+At step 190, Cutoff is 0.000010. We swap row 251 and row 108. 
+We fix row 108. 
+At step 191, Cutoff is 0.000010. We swap row 943 and row 926. 
+We fix row 926. 
+At step 192, Cutoff is 0.000010. We swap row 529 and row 557. 
+We fix row 557. 
+At step 193, Cutoff is 0.000010. We swap row 781 and row 768. 
+We fix row 768. 
+At step 194, Cutoff is 0.000010. We swap row 758 and row 773. 
+We fix row 773. 
+At step 195, Cutoff is 0.000010. We swap row 539 and row 280. 
+We fix row 280. 
+At step 196, Cutoff is 0.000010. We swap row 907 and row 648. 
+We fix row 648. 
+At step 197, Cutoff is 0.000010. We swap row 367 and row 204. 
+We fix row 204. 
+At step 198, Cutoff is 0.000010. We swap row 485 and row 467. 
+We fix row 467. 
+At step 199, Cutoff is 0.000010. We swap row 474 and row 491. 
+We fix row 491. 
+At step 200, Cutoff is 0.000010. We swap row 124 and row 125. 
+We fix row 125. 
+At step 201, Cutoff is 0.000010. We swap row 2 and row 41. 
+We fix row 41. 
+At step 202, Cutoff is 0.000010. We swap row 794 and row 810. 
+We fix row 810. 
+At step 203, Cutoff is 0.000010. We swap row 832 and row 818. 
+We fix row 818. 
+At step 204, Cutoff is 0.000010. We swap row 531 and row 515. 
+We fix row 515. 
+At step 205, Cutoff is 0.000010. We swap row 474 and row 472. 
+We fix row 472. 
+At step 206, Cutoff is 0.000010. We swap row 512 and row 400. 
+We fix row 400. 
+At step 207, Cutoff is 0.000009. We swap row 689 and row 929. 
+We fix row 929. 
+At step 208, Cutoff is 0.000009. We swap row 178 and row 307. 
+We fix row 307. 
+At step 209, Cutoff is 0.000009. We swap row 463 and row 461. 
+We fix row 461. 
+At step 210, Cutoff is 0.000009. We swap row 220 and row 347. 
+We fix row 347. 
+At step 211, Cutoff is 0.000009. We swap row 212 and row 211. 
+We fix row 211. 
+At step 212, Cutoff is 0.000009. We swap row 212 and row 227. 
+We fix row 227. 
+At step 213, Cutoff is 0.000009. We swap row 191 and row 155. 
+We fix row 155. 
+At step 214, Cutoff is 0.000009. We swap row 2 and row 824. 
+We fix row 824. 
+At step 215, Cutoff is 0.000009. We swap row 2 and row 303. 
+We fix row 303. 
+At step 216, Cutoff is 0.000009. We swap row 173 and row 443. 
+We fix row 443. 
+At step 217, Cutoff is 0.000009. We swap row 814 and row 831. 
+We fix row 831. 
+At step 218, Cutoff is 0.000009. We swap row 889 and row 646. 
+We fix row 646. 
+At step 219, Cutoff is 0.000009. We swap row 408 and row 537. 
+We fix row 537. 
+At step 220, Cutoff is 0.000009. We swap row 113 and row 239. 
+We fix row 239. 
+At step 221, Cutoff is 0.000009. We swap row 920 and row 955. 
+We fix row 955. 
+At step 222, Cutoff is 0.000009. We swap row 214 and row 471. 
+We fix row 471. 
+At step 223, Cutoff is 0.000009. We swap row 2 and row 53. 
+We fix row 53. 
+At step 224, Cutoff is 0.000009. We swap row 2 and row 82. 
+We fix row 82. 
+At step 225, Cutoff is 0.000009. We swap row 753 and row 640. 
+We fix row 640. 
+At step 226, Cutoff is 0.000009. We swap row 2 and row 871. 
+We fix row 871. 
+At step 227, Cutoff is 0.000009. We swap row 803 and row 901. 
+We fix row 901. 
+At step 228, Cutoff is 0.000009. We swap row 589 and row 605. 
+We fix row 605. 
+At step 229, Cutoff is 0.000009. We swap row 2 and row 317. 
+We fix row 317. 
+At step 230, Cutoff is 0.000009. We swap row 2 and row 189. 
+We fix row 189. 
+At step 231, Cutoff is 0.000007. We swap row 51 and row 932. 
+We fix row 932. 
+At step 232, Cutoff is 0.000007. We swap row 261 and row 259. 
+We fix row 259. 
+At step 233, Cutoff is 0.000007. We swap row 2 and row 661. 
+We fix row 661. 
+At step 234, Cutoff is 0.000007. We swap row 622 and row 638. 
+We fix row 638. 
+At step 235, Cutoff is 0.000007. We swap row 2 and row 206. 
+We fix row 206. 
+At step 236, Cutoff is 0.000006. We swap row 2 and row 588. 
+We fix row 588. 
+At step 237, Cutoff is 0.000005. We swap row 2 and row 348. 
+We fix row 348. 
+At step 238, Cutoff is 0.000004. We swap row 2 and row 402. 
+We fix row 402. 
+At step 239, Cutoff is 0.000002. We swap row 2 and row 1014. 
+We fix row 1014. 
